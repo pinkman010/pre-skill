@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+presentation-prep/
+trial-prep-output/
+__tmp*/
+__pycache_validation/
+
+.DS_Store
+Thumbs.db
