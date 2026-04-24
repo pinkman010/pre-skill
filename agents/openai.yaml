@@ -1,0 +1,7 @@
+interface:
+  display_name: "PPT文字底稿"
+  short_description: "先拆要求和材料，再生成可投喂任意平台的中文PPT底稿"
+  default_prompt: "使用 $pre-skill 先拆解任务要求、源材料、素材和展示逻辑，生成一份详细中文 PPT 文字底稿；默认不要直接生成 PPTX。"
+
+policy:
+  allow_implicit_invocation: true
